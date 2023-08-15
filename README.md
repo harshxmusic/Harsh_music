@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「 ˹harshxd ✘ 𝐌ᴜsɪ𝐂˼ 」──
+    ──「 ˹harsh ✘ 𝐌ᴜsɪ𝐂˼ 」──
 </h2>
 
 <p align="center">
@@ -7,5 +7,5 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/mrtosumemon/DOREAMON_MUSIC/stargazers"><img src="https://img.shields.io/github/stars/mrtosumemon/DOREAMON_MUSIC?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/harshxmusic/Harsh_music/stargazers"><img src="https://img.shields.io/github/stars/harshxmusic/Harsh_music?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
 <a 
