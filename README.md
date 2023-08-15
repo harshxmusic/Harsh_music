@@ -81,4 +81,4 @@ href="https://telegram.me/anonymusc_supporter"><img src="https://img.shields.io/
 <a href="https://github.com/TheHamkerCat"> <img src="https://img.shields.io/badge/TheHamkerCat-black?style=for-the-badge&logo=github" alt="TheHamkerCat" /> </a>
 </p>
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [HARSH_XD](https://github.com/mrtosumemon) ғᴏʀ [ɪɴᴄʀɪᴄɪʙʟᴇ x ᴍᴜsɪᴄ](https://github.com/mrtosumemon/INCRICIBLE_MUSIC)_ </b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [HARSH_XD](https://github.com/harshxmusic) ғᴏʀ [supporterx ᴍᴜsɪᴄ](https://github.com/harshxmusic/Harsh_music)_ </b>
