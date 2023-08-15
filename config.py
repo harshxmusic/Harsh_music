@@ -21,12 +21,12 @@ OWNER_ID = list(map(int, getenv("OWNER_ID", "6623916626").split()))
 HEROKU_API_KEY = getenv("HEROKU_API_KEY", None)
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
 
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/mrtosumemon/DoReAmOn_MuSiC")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/harshxmusic/Harsh_music")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/THE_INCRICIBLE")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/INCRICIBLE")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/anonymusc_supporter")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/anonymusc_supporter")
 
 SUPPORT_HEHE = SUPPORT_GROUP.split("me/")[1]
 
@@ -79,30 +79,30 @@ START_IMG_URL = getenv("START_IMG_URL", "https://te.legra.ph/file/38a50e07392ea1
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://telegra.ph/file/d3220a0372f4398375b2f.jpg",
+    "https://telegra.ph/file/56d1760224589ee370186.jpg",
 )
 
-PLAYLIST_IMG_URL = "https://te.legra.ph/file/38a50e07392ea1321c78e.jpg"
+PLAYLIST_IMG_URL = "https://telegra.ph/file/56d1760224589ee370186.jpg"
 
-GLOBAL_IMG_URL = "https://te.legra.ph/file/38a50e07392ea1321c78e.jpg"
+GLOBAL_IMG_URL = "https://telegra.ph/file/56d1760224589ee370186.jpg"
 
-STATS_IMG_URL = "https://te.legra.ph/file/38a50e07392ea1321c78e.jpg"
+STATS_IMG_URL = "https://telegra.ph/file/56d1760224589ee370186.jpg"
 
-TELEGRAM_AUDIO_URL = "https://te.legra.ph/file/38a50e07392ea1321c78e.jpg"
+TELEGRAM_AUDIO_URL = "https://telegra.ph/file/56d1760224589ee370186.jpg"
 
 TELEGRAM_VIDEO_URL = "https://te.legra.ph/file/b400c0c6c6b6d600c3215.jpg"
 
-STREAM_IMG_URL = "https://te.legra.ph/file/b400c0c6c6b6d600c3215.jpg"
+STREAM_IMG_URL = "https://telegra.ph/file/56d1760224589ee370186.jpg"
 
-SOUNCLOUD_IMG_URL = "https://te.legra.ph/file/b400c0c6c6b6d600c3215.jpg"
+SOUNCLOUD_IMG_URL = "https://telegra.ph/file/56d1760224589ee370186.jpg"
 
-YOUTUBE_IMG_URL = "https://te.legra.ph/file/b400c0c6c6b6d600c3215.jpg"
+YOUTUBE_IMG_URL = "https://telegra.ph/file/56d1760224589ee370186.jpg"
 
-SPOTIFY_ARTIST_IMG_URL = "https://te.legra.ph/file/b400c0c6c6b6d600c3215.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://telegra.ph/file/56d1760224589ee370186.jpg"
 
-SPOTIFY_ALBUM_IMG_URL = "https://te.legra.ph/file/b400c0c6c6b6d600c3215.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://telegra.ph/file/56d1760224589ee370186.jpg"
 
-SPOTIFY_PLAYLIST_IMG_URL = "https://te.legra.ph/file/b400c0c6c6b6d600c3215.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://telegra.ph/file/56d1760224589ee370186.jpg"
 
 
 def time_to_seconds(time):
@@ -129,9 +129,9 @@ if UPSTREAM_REPO:
 if PING_IMG_URL:
     if PING_IMG_URL != "assets/Ping.jpeg":
         if not re.match("(?:http|https)://", PING_IMG_URL):
-            PING_IMG_URL = "https://te.legra.ph/file/ffff3742490dab98dfb40.jpg"
+            PING_IMG_URL = "https://telegra.ph/file/56d1760224589ee370186.jpg"
 
 if START_IMG_URL:
     if START_IMG_URL != "assets/Ping.jpeg":
         if not re.match("(?:http|https)://", START_IMG_URL):
-            START_IMG_URL = "https://te.legra.ph/file/38a50e07392ea1321c78e.jpg"
+            START_IMG_URL = "https://telegra.ph/file/56d1760224589ee370186.jpg"
